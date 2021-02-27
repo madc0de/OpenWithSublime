@@ -6,8 +6,8 @@ SET "stPathOnly=%~dp0"
 SET "UserEntry=Sublime Text"
 SET "AdminEntry=Sublime Text As Admin"
 :: Context menu texts.
-SET "UserMenuText=Open with Sublime(&-)"
-SET "AdminMenuText=Open with Sublime As Admin(&+)"
+SET "UserMenuText=Open with Sublime"
+SET "AdminMenuText=Open with Sublime(Administrator)"
 
 SET GIST_WORKSPACE=https://raw.githubusercontent.com/jcppkkk/OpenWithSublime/master
 SET F_ELEVATE_CMD=OpenWithSublime_elevate.cmd
