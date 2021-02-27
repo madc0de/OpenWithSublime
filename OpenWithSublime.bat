@@ -9,7 +9,7 @@ SET "AdminEntry=Sublime Text As Admin"
 SET "UserMenuText=Open with Sublime"
 SET "AdminMenuText=Open with Sublime(Administrator)"
 
-SET GIST_WORKSPACE=https://raw.githubusercontent.com/jcppkkk/OpenWithSublime/master
+SET GIST_WORKSPACE=https://raw.githubusercontent.com/madc0de/OpenWithSublime/master
 SET F_ELEVATE_CMD=OpenWithSublime_elevate.cmd
 SET F_ELEVATE_VBS=OpenWithSublime_elevate.vbs
 SET F_UNINSTALL=OpenWithSublime_uninstall.bat
